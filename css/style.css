@@ -1,0 +1,22 @@
+html {
+  box-sizing: border-box;
+}
+body {
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style: none;
+}
+
+li > a {
+  text-decoration: none;
+  text-align: center;
+}
+li > a:hover {
+  color: rgb(212, 105, 105);
+}
+li {
+  list-style-image: url(/img/illustration.png);
+}
