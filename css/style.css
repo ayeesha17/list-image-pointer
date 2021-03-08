@@ -19,5 +19,6 @@ li > a:hover {
   color: rgb(212, 105, 105);
 }
 li {
+  font-size: 1.5rem;
   list-style-image: url(/img/data-management.svg);
 }
